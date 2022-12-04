@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Homework5</string>
+    <string name="_3_42_pm">3:42 PM</string>
+    <string name="o">o</string>
+    <string name="_0">0%</string>
+    <string name="_56">56</string>
+    <string name="current">Current Location</string>
+    <string name="new_york">New York</string>
+    <string name="_32">32</string>
+    <string name="paris">Paris</string>
+    <string name="_77">77</string>
+    <string name="san_diago">San Diega</string>
+    <string name="text">Royhatdan otish uchun telefon raqamingizni kiriting</string>
+    <string name="_998">+998</string>
+    <string name="kirish">KIRISH</string>
+    <string name="top_like_name">Eng kop yoqqan ismlar</string>
+    <string name="top_name">Eng kop qidirilgan ismlar</string>
+    <string name="female_name">Qiz bolalar ismi</string>
+    <string name="female_number">9530</string>
+    <string name="male_name">Ogil bolalar ismi</string>
+    <string name="male_baby_number">11470</string>
+    <string name="names_meaning">Ismlar manosi</string>
+    <string name="dining">Fine Dining</string>
+    <string name="text_bars">Bars and Hotels</string>
+</resources>
